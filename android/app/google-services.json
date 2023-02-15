@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84621776951",
+    "project_id": "flutterapp-ed61a",
+    "storage_bucket": "flutterapp-ed61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84621776951:android:1bd137bc8817a939ed07b2",
+        "android_client_info": {
+          "package_name": "com.example.recrutementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84621776951-q3k7h1crj3rs09k9iv0afems9h4fkuv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReHtz6YnjaNWf3L4wiZgqgmV3roKsTIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84621776951-q3k7h1crj3rs09k9iv0afems9h4fkuv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
