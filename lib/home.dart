@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.deepOrange,
         child: Icon(
           Icons.add,
-          size:30 ,
+          size:30,
         ),
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
